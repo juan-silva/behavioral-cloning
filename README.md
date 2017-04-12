@@ -1,6 +1,6 @@
-#**Behavioral Cloning** 
+# Behavioral Cloning
 
-###Submitted by: Juan silva
+### Submitted by: Juan silva
 
 ---
 
